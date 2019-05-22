@@ -1,5 +1,16 @@
-# ness_workshop_ml
-Workshop NESS - Inteligência Artificial e Aprendizagem de Máquina
+# Workshop NESS - Inteligência Artificial e Aprendizagem de Máquina
+Este repositório contém o material didático associadas ao workshop "Inteligência Artificial e Aprendizagem de Máquina"
+
+## Instrutores
+- [André Câmara](http://andrecamara.github.io) - UFRPE - AiBox Lab
+- Rafael Mello - UFRPE - AiBox Lab
+
+## Sobre o workshop
+O principal objetivo do workshop é apresentar alguns exemplos soluções utilizando aprendizagem de máquina com o framework Scikit-learn. O Scikit-learn é uma biblioteca de aprendizado de máquina em Python, que se tornou uma ferramenta valiosa para muitos profissionais de ciência de dados. 
+Este treinamento irá demonstrar alguns conceitos básicos de aprendizado supervisionado, como dados de treinamento e teste e noções básicas de avaliação de modelo. Além disso, será apresentado um exemplo da construção de um modelo preditivo com o  scikit-learn.
+
+## Pré-requisitos
+Este workshop pressupõe familiaridade com a linguagem Python e Jupyter notebooks. Serão utilizadas tambéms funcionalidades básicas das bibliotecas pandas, matplotlib e numpy. 
 
 ## Preparação do ambiente (Jupyter Notebook)
 ### Opção 1
