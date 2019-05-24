@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aiboxlab/ness_workshop_ml/master)
+
 # Workshop NESS - Inteligência Artificial e Aprendizagem de Máquina
 Este repositório contém o material didático associadas ao workshop "Inteligência Artificial e Aprendizagem de Máquina"
 
